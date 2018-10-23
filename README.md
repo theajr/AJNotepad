@@ -1,4 +1,4 @@
-<h1>AJNotepad</h1>
+<h1>AJRTextEditor</h1>
 
 <p>A Simple Notepad developed just while learning in my B.Tech Second Year.</p>
 
